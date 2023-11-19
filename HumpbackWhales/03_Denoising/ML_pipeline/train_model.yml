@@ -16,7 +16,7 @@ inputs:
     type: uri_folder
   max_train_epochs:
     type: integer
-    default: 150
+    default: 100
   learning_rate: 
     type: number
     default: 0.001
