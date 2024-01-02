@@ -386,3 +386,6 @@ venv.bak/
 fileshare_setup_Z_linux.txt
 config.json
 
+# do not upload model files
+HumpbackWhales/03_Denoising/ML_pipeline/models/*
+
